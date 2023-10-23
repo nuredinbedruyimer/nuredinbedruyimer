@@ -6,7 +6,8 @@ I Am Nuredin Bedru Student In Adiss Ababa Institution Of Technology In Computer 
 
 Skills: VUE JS / REACT / JS / HTML / CSS/Golang/Node/Express/Next
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently learing http networking
+- 
 
 
 

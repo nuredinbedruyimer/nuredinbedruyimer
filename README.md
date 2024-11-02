@@ -14,4 +14,5 @@ Learning from seniors and leveling up in tech.
 ### 💭 Currently Learning
 - **Focus Areas:**
   - Microservices Architecture
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuredinbedruyimer&show_icons=true&theme=radical)
 

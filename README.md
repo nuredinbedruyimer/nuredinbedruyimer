@@ -11,7 +11,7 @@ Learning from seniors and leveling up in tech.
 
 ---
 
-### 💭 Currently Exploring
+### 💭 Currently Learning
 - **Focus Areas:**
   - Microservices Architecture
 

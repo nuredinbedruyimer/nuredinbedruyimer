@@ -19,6 +19,8 @@ Learning from seniors and leveling up in tech.
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuredinbedruyimer&show_icons=true&theme=merko)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nuredinbedruyimer&theme=dark&hide_border=false)
+
 
 
 

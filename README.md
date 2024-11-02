@@ -1,14 +1,17 @@
-### Hi there 👋, I Am Nuredin Bedru
-####  Front And Backend Developer 
-![ Front And Backend Developer ](https://avatars.githubusercontent.com/u/119440292?v=4)
+## 👨🏻‍💻 Software Developer | Optimization Enthusiast
 
-I Am Nuredin Bedru Graduated At Adiss Ababa Institution Of Technology In Computer Engineering With Solid Knowledge in Web Dev
+Learning from seniors and leveling up in tech.
 
-Skills: VUE JS / REACT / JS / HTML / CSS/Golang/Node/Express/Next
+---
 
-- 🔭 I’m currently learing http networking
-  
+### 🎓 Education
+- **Studied:** Computer Engineering
+- **University:** Addis Ababa University
+- **Achievements:** Mastered Advanced Data Structures and Algorithms (DSA)
 
+---
 
-
+### 💭 Currently Exploring
+- **Focus Areas:**
+  - Microservices Architecture
 

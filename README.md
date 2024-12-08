@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Software Developer | Optimization Enthusiast
 
-Learning from seniors and leveling up in
+
 
 ---
 

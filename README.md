@@ -11,7 +11,6 @@
 
 ---
 
-### 💭 Currently Learning
 - **Focus Areas:**
   - Microservices Architecture
  

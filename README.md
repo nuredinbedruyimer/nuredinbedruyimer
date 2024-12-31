@@ -9,13 +9,7 @@
 - **University:** Addis Ababa University
 - **Achievements:** Mastered advanced Data Structures and Algorithms (DSA)
 
----
 
-- **Focus Areas:**
-  - Microservices Architecture
- 
-
----
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nuredinbedruyimer&theme=dark&hide_border=false)
 

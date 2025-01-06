@@ -7,7 +7,7 @@
 ### 🎓 Education
 - **Studied:** Computer Engineering
 - **University:** Addis Ababa University
-- **Achievements:** Mastered advanced Data Structures and Algorithms (DSA)
+- **Achievements:** Mastered advanced Data Structures and Algorithms (DSA) At A2SV
 
 
 
